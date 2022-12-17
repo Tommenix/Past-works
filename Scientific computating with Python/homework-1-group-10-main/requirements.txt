@@ -1,0 +1,3 @@
+# packages required to run code
+numpy
+matplotlib
