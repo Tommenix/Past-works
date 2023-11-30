@@ -1,5 +1,5 @@
 # Past-works
-This is a compilation of my past works, most of which are from my master's at MCAM at UChicago.
+This is a truthful record of my past works, most of which are from my master's at MCAM at UChicago.
 
 There are many folders here. They are listed in this manner:
 
